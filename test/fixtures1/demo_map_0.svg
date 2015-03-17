@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="600px"
+	 height="480px" viewBox="0 0 600 480" enable-background="new 0 0 600 480" xml:space="preserve">
+<g id="Base">
+	<image xlink:href="test/fixtures1/base.png" 
+		overflow="visible" enable-background="new" width="460px" height="333px" x="72" y="40"/>
+</g>
+<g id="Rooms">
+	<a id="B101" xlink:href="#" >
+		<!--
+		<g>
+			<path fill="#E6E6E6" d="M80.5,299.5v-71h71v26.028c-1.959,0.17-9,1.346-9,9.472v0.5h9v35H180.5z"/>
+			<path d="M251,229v25.081c-2.533,0.322-9,1.929-9,9.919v1h1h7.875H251v34h-70v-70H251 M252,228h-72v72h72v-36c0,0,0,0-9,0
+				c0-9,9-9,9-9V228L252,228z"/>
+		</g>
+		-->
+	</a>
+	<a id="B102" xlink:href="#" >
+		<!--
+		<g>
+			<path fill="#E6E6E6" d="M180.5,182.5v-71h26.028c0.169,1.959,1.346,9,9.472,9h0.5v-9h35v71H180.5z"/>
+			<path d="M251,112v70h-70v-70h25.081c0.323,2.533,1.93,9,9.919,9h1v-1v-7.875V112H251 M252,111h-36c0,0,0,0,0,9c-9,0-9-9-9-9h-27
+				v72h72V111L252,111z"/>
+		</g>
+		-->
+	</a>
+</g>
+<g id="Portals">
+	<!--
+	<line id="Elev.1.floor2" fill="none" stroke="#FF00FF" x1="297" y1="237" x2="315" y2="255"/>
+	<line id="Stair.1.floor2" fill="none" stroke="#FF00FF" x1="297" y1="273" x2="288" y2="273"/>
+	-->
+</g>
+<g id="Doors">
+	<line id="B101_1_" fill="none" stroke="#FF0000" x1="160" y1="200" x2="175" y2="210"/>
+	<line id="B102_1_" fill="none" stroke="#FF0000" x1="315" y1="285" x2="315" y2="330"/>
+</g>
+<g id="Paths">
+	<line fill="none" stroke="#00FFFF" x1="175" y1="210" x2="200" y2="210"/>
+	<line fill="none" stroke="#00FFFF" x1="200" y1="210" x2="200" y2="260"/>
+	<line fill="none" stroke="#00FFFF" x1="200" y1="260" x2="315" y2="260"/>
+	<line fill="none" stroke="#00FFFF" x1="315" y1="260" x2="315" y2="285"/>
+</g>
+</svg>

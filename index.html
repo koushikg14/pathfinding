@@ -87,14 +87,32 @@
 		<script>
 			$(document).ready(function () {
 				'use strict';
-				$.ajaxSetup({
-					headers:{
-						'Access-Control-Allow-Origin': '*'
-					}
-				});
+				var params = location.search.substring(1).split('&'),
+					target,
+					startpoint,
+					currentMap;
+
+				if (params != undefined && params.length > 0 && params[0].length > 0) {
+					target = params[0].split('=')[1];
+				} else {
+					target = "R101";
+				}
+				
+				if (params != undefined && params.length > 1 && params[1].length > 0) {
+					startpoint = params[1].split('=')[1];
+				} else {
+					startpoint = "lcd.1"
+				}
+				
+				if (params != undefined && params.length > 2 && params[2].length > 0) {
+					currentMap = params[2].split('=')[1];
+				} else {
+					currentMap = "floor1"
+				}
 				
 				$('#myMaps').wayfinding({
 					'maps': [
+						{'path': 'test/fixtures1/demo_map_0.svg', 'id': 'floor0'},
 						{'path': 'test/fixtures1/demo_map_1.svg', 'id': 'floor1'},
 						{'path': 'test/fixtures1/demo_map_2.svg', 'id': 'floor2'}
 					],
@@ -105,9 +123,11 @@
 						speed: 8
 					},
 					'startpoint': function () {
-						return 'lcd.1';
+						return startpoint;
 					},
-					'defaultMap': 'floor1',
+					'defaultMap': function(){
+						return currentMap;
+					},
 					'showLocation': true
 				}, function(){
 					console.log('callback reached');
@@ -144,17 +164,7 @@
 					$('#endSelect option[value="' + r.roomId + '"]').attr('selected', true);
 				});
 				
-				var params = location.search.substring(1).split('&'),
-					target;
-
-				if (params != undefined && params.length > 0 && params[0].length > 0) {
-					target = params[0].split('=')[1];
-				} else {
-					target = "R101";
-				}
-				
 				$('#myMaps').wayfinding('routeTo', target);
-				
 			});
 		</script>
 	</body>

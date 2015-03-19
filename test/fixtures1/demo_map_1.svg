@@ -102,7 +102,7 @@
 		<g>
 			<path fill="#FFFFFF" d="M423.5,371.5v-71h71v26.028c-1.959,0.17-9,1.346-9,9.472v0.5h9v35H423.5z"/>
 			<image x="423.5" y="316.5" 
-					xlink:href="test/fixtures1/f1/08.jpg" 
+					xlink:href="test/fixtures1/f1/14.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
 			<path d="M494,301v25.081c-2.533,0.322-9,1.929-9,9.919v1h1h7.875H494v34h-70v-70H494 M495,300h-72v72h72v-36c0,0,0,0-9,0
 				c0-9,9-9,9-9V300L495,300z"/>

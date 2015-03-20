@@ -19,6 +19,7 @@
 		<line fill="none" stroke="#000000" x1="306" y1="282" x2="324" y2="282"/>
 		<polyline stroke="#000000" points="288,273 288,309 283.5,300 292.5,300 288,309 		"/>
 	</g>
+	<text x="282" y="215" fill="#000" font-size="24">1楼</text>
 </g>
 <g id="Rooms">
 	<a id="lobby_1_" xlink:href="#" >
@@ -33,6 +34,7 @@
 			<image x="108.5" y="316.5" 
 					xlink:href="test/fixtures1/f1/01.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="110.5" y="316.5" fill="#000" font-size="16">101</text>
 			<path d="M179,301v70h-70v-25.081c2.533-0.322,9-1.929,9-9.919v-1h-1h-7.875H109v-34H179 M180,300h-72v36c0,0,0,0,9,0c0,9-9,9-9,9
 				v27h72V300L180,300z"/>
 			
@@ -44,6 +46,7 @@
 			<image x="108.5" y="244.5" 
 					xlink:href="test/fixtures1/f1/02.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="110.5" y="244.5" fill="#000" font-size="16">102</text>
 			<path d="M179,229v70h-70v-25.081c2.533-0.322,9-1.929,9-9.919v-1h-1h-7.875H109v-34H179 M180,228h-72v36c0,0,0,0,9,0c0,9-9,9-9,9
 				v27h72V228L180,228z"/>
 		</g>

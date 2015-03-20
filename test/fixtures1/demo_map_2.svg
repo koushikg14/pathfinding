@@ -18,6 +18,7 @@
 		<line fill="none" stroke="#000000" x1="306" y1="282" x2="324" y2="282"/>
 		<polyline stroke="#000000" points="288,273 288,309 283.5,300 292.5,300 288,309 		"/>
 	</g>
+	<text x="282" y="215" fill="#000" font-size="24">2楼</text>
 </g>
 <g id="Rooms">
 	<!--
@@ -34,6 +35,7 @@
 			<image x="108.5" y="316.5" 
 					xlink:href="test/fixtures1/f2/01.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="110.5" y="316.5" fill="#000" font-size="16">201</text>
 			<path d="M179,301v70h-70v-25.081c2.533-0.322,9-1.929,9-9.919v-1h-1h-7.875H109v-34H179 M180,300h-72v36c0,0,0,0,9,0c0,9-9,9-9,9
 				v27h72V300L180,300z"/>
 		</g>
@@ -44,6 +46,7 @@
 			<image x="108.5" y="244.5" 
 					xlink:href="test/fixtures1/f2/02.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="110.5" y="244.5" fill="#000" font-size="16">202</text>				
 			<path d="M179,229v70h-70v-25.081c2.533-0.322,9-1.929,9-9.919v-1h-1h-7.875H109v-34H179 M180,228h-72v36c0,0,0,0,9,0c0,9-9,9-9,9
 				v27h72V228L180,228z"/>
 		</g>
@@ -54,6 +57,7 @@
 			<image x="180.5" y="244.5" 
 					xlink:href="test/fixtures1/f2/03.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="182.5" y="244.5" fill="#000" font-size="16">203</text>		
 			<path d="M251,229v25.081c-2.533,0.322-9,1.929-9,9.919v1h1h7.875H251v34h-70v-70H251 M252,228h-72v72h72v-36c0,0,0,0-9,0
 				c0-9,9-9,9-9V228L252,228z"/>
 		</g>
@@ -64,6 +68,7 @@
 			<image x="180.5" y="316.5" 
 					xlink:href="test/fixtures1/f2/04.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="182.5" y="316.5" fill="#000" font-size="16">204</text>			
 			<path d="M251,301v25.081c-2.533,0.322-9,1.929-9,9.919v1h1h7.875H251v34h-70v-70H251 M252,300h-72v72h72v-36c0,0,0,0-9,0
 				c0-9,9-9,9-9V300L252,300z"/>
 		</g>
@@ -74,6 +79,7 @@
 			<image x="351.5" y="316.5" 
 					xlink:href="test/fixtures1/f2/05.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="353.5" y="316.5" fill="#000" font-size="16">211</text>
 			<path d="M422,301v70h-70v-25.081c2.533-0.322,9-1.929,9-9.919v-1h-1h-7.875H352v-34H422 M423,300h-72v36c0,0,0,0,9,0c0,9-9,9-9,9
 				v27h72V300L423,300z"/>
 		</g>
@@ -84,6 +90,7 @@
 			<image x="351.5" y="244.5" 
 					xlink:href="test/fixtures1/f2/06.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="353.5" y="244.5" fill="#000" font-size="16">212</text>			
 			<path d="M422,229v70h-70v-25.081c2.533-0.322,9-1.929,9-9.919v-1h-1h-7.875H352v-34H422 M423,228h-72v36c0,0,0,0,9,0c0,9-9,9-9,9
 				v27h72V228L423,228z"/>
 		</g>
@@ -94,6 +101,7 @@
 			<image x="423.5" y="244.5" 
 					xlink:href="test/fixtures1/f2/07.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="425.5" y="244.5" fill="#000" font-size="16">213</text>
 			<path d="M494,229v25.081c-2.533,0.322-9,1.929-9,9.919v1h1h7.875H494v34h-70v-70H494 M495,228h-72v72h72v-36c0,0,0,0-9,0
 				c0-9,9-9,9-9V228L495,228z"/>
 		</g>
@@ -104,6 +112,7 @@
 			<image x="423.5" y="316.5" 
 					xlink:href="test/fixtures1/f2/08.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="425.5" y="316.5" fill="#000" font-size="16">214</text>
 			<path d="M494,301v25.081c-2.533,0.322-9,1.929-9,9.919v1h1h7.875H494v34h-70v-70H494 M495,300h-72v72h72v-36c0,0,0,0-9,0
 				c0-9,9-9,9-9V300L495,300z"/>
 		</g>
@@ -114,6 +123,7 @@
 			<image x="108.5" y="127.5" 
 					xlink:href="test/fixtures1/f2/09.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="110.5" y="127.5" fill="#000" font-size="16">221</text>
 			<path d="M179,112v70h-70v-25.081c2.533-0.323,9-1.93,9-9.919v-1h-1h-7.875H109v-34H179 M180,111h-72v36c0,0,0,0,9,0c0,9-9,9-9,9
 				v27h72V111L180,111z"/>
 		</g>
@@ -124,6 +134,7 @@
 			<image x="180.5" y="127.5" 
 					xlink:href="test/fixtures1/img_2.png" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="182.5" y="127.5" fill="#000" font-size="16">222</text>
 			<path d="M251,112v70h-70v-70h25.081c0.323,2.533,1.93,9,9.919,9h1v-1v-7.875V112H251 M252,111h-36c0,0,0,0,0,9c-9,0-9-9-9-9h-27
 				v72h72V111L252,111z"/>
 		</g>
@@ -135,6 +146,7 @@
 			<image x="267.5" y="127.5" 
 					xlink:href="test/fixtures1/f2/11.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="269.5" y="127.5" fill="#000" font-size="16">223</text>
 			<path d="M350,112v70h-7v-0.125V174v-1h-1c-7.99,0-9.597,6.467-9.919,9h-61.162c-0.323-2.533-1.93-9-9.919-9h-1v1v7.875V182h-7
 				v-70h7v0.125V120v1h1c7.99,0,9.597-6.467,9.919-9h61.162c0.322,2.533,1.929,9,9.919,9h1v-1v-7.875V112H350 M351,111h-9
 				c0,0,0,0,0,9c-9,0-9-9-9-9h-63c0,0,0,9-9,9c0-9,0-9,0-9h-9v72h9c0,0,0,0,0-9c9,0,9,9,9,9h63c0,0,0-9,9-9c0,9,0,9,0,9h9V111
@@ -147,6 +159,7 @@
 			<image x="351.5" y="127.5" 
 					xlink:href="test/fixtures1/f2/12.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="353.5" y="127.5" fill="#000" font-size="16">224</text>
 			<path d="M422,112v70h-70v-70h25.081c0.322,2.533,1.929,9,9.919,9h1v-1v-7.875V112H422 M423,111h-36c0,0,0,0,0,9c-9,0-9-9-9-9h-27
 				v72h72V111L423,111z"/>
 		</g>
@@ -157,6 +170,7 @@
 			<image x="423.5" y="127.5" 
 					xlink:href="test/fixtures1/f2/13.jpg" 
 					overflow="visible" enable-background="new" width="70px" height="40px"/>
+			<text x="425.5" y="127.5" fill="#000" font-size="16">225</text>
 			<path d="M494,112v25.081c-2.533,0.323-9,1.93-9,9.919v1h1h7.875H494v34h-70v-70H494 M495,111h-72v72h72v-36c0,0,0,0-9,0
 				c0-9,9-9,9-9V111L495,111z"/>
 		</g>
